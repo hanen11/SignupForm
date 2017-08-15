@@ -1,0 +1,72 @@
+body{
+background: #489ef9;
+}
+main {
+margin-left: auto;
+margin-right: auto;
+height:35px;
+width:400px;
+
+}
+fieldset {
+margin-left: auto;
+margin-right: auto;
+  border: none;
+}
+legend {
+margin-left: auto;
+margin-right: auto;
+font-size: 30px;
+font-family: 'Arial';
+padding:30px;
+color:grey;}
+form{
+margin-top:30px;
+background: white;
+height:480px;
+border-radius: 1%;
+}
+
+img{
+margin-left: 100px;
+margin-top:20px;
+height:35px;
+}
+label{
+font-size: 19px;
+font-family: 'Arial';
+margin:15px;
+}
+input{
+width:300px;
+padding:15px;
+border:2px solid #ccc;
+color: #ccc;
+font-size:19px;
+margin:20px;
+}
+
+button{
+width:330px;
+height:55px;
+padding:15px;
+background-color:#2ac170;
+padding:15px;
+border:2px solid #2ac170;
+color : white;
+border-radius: 1%;
+margin:20px;
+font-size:22px;
+}
+a{
+margin-left: 125px;
+font-size: 15px;
+font-family: 'Arial';
+color:grey;
+}
+p, p a{
+font-size: 19px;
+margin-left: 50px;
+font-family: 'Arial';
+color:white;
+}
